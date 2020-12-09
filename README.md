@@ -11,4 +11,4 @@ I chose not to use a license for this repo since no code is intended to be here.
 
 ## Notes
 ----
-[Arduboy Notes](https://github.com/RetrobitCoder/Game-Dev-Notes/blob/main/Arduboy.md)
+[Arduboy Notes](https://retrobitcoder.github.io/Game-Dev-Notes/Arduboy)
