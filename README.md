@@ -10,5 +10,4 @@ Feel free to use these notes as you want. There is no restriction on how these n
 I chose not to use a license for this repo since no code is intended to be here.
 
 ## Notes
-----
 [Arduboy Notes](https://retrobitcoder.github.io/Game-Dev-Notes/Arduboy)
